@@ -5,7 +5,7 @@
 **prueba**  
 **prueba**  
 
-<div style = "text-align: justify;">
+<div style = "text-align: justify; word-wrap: break-word; white-space: pre-wrap;">
 
 
 
