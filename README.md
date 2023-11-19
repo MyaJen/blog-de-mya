@@ -5,9 +5,11 @@
 **prueba**  
 **prueba**  
 
-[Novela Prueba](pages/indice.md)
+[Novela Prueba](pages/indice.md)  
 
-<div style = "text-align: justify; word-wrap: break-word; white-space: pre-wrap;">
+<body style="margin: 7%; padding: 0; text-align: justify; background-color:#2a2a2a;">
+
+<div style = "text-align: justify; word-wrap: break-word; white-space: pre-wrap; color:#EEEEEE;">
 
 
 
@@ -63,3 +65,5 @@ No importa lo que estuviera pensando por dentro, Se-hyeon llamó al empleado con
 
 
 </div>
+
+</body>
